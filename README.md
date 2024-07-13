@@ -1,7 +1,5 @@
 # Amazon PS5 Controller Price Tracker Using BeautifulSoup
 
-Amazon PS5 Controller Price Tracker
-
 This Python script is designed to track the price of the PlayStation 5 DualSense Wireless Controller on Amazon. It periodically checks the product page, extracts the current price, and saves the data to a CSV file for further analysis.
 
 **Features:**
