@@ -1,4 +1,4 @@
-# Amazon-Webscraping
+# Amazon PS5 Controller Price Tracker Using BeautifulSoup
 
 Amazon PS5 Controller Price Tracker
 
